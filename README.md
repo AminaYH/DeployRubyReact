@@ -1,4 +1,3 @@
-# Workout Logger Application
 
 ## Overview
 
@@ -185,19 +184,6 @@ Terraform will be used to manage and provision AWS resources required for this p
 - AWS DynamoDB for scalable and flexible data storage
 - AWS ECS (Elastic Container Service) for container orchestration
 
-We will provide detailed Terraform configurations and instructions as we proceed with the implementation in the grand plan.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or inquiries, please contact [fardin.iqbal@stonybrook.edu](mailto:fardin.iqbal@stonybrook.edu).
 
 ---
 
