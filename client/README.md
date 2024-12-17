@@ -1,4 +1,4 @@
-# Frontend - Workout Logger
+# Frontend 
 
 This directory contains the frontend of the Workout Logger application built with React.
 
