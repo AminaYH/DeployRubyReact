@@ -31,8 +31,7 @@ The Workout Logger Application is a full-stack web application designed to help 
     - Visualize workout data with charts
 - **User Profile Management**
     - Update and view user profile information
-- **Social Features**
-    - Follow other users and view their workouts
+-
 - **Notifications**
     - Receive notifications for new workouts or comments
 
@@ -77,11 +76,6 @@ workout-logger/
 ### Installation
 
 1. **Clone the repository:**
-
-    ~~~bash
-    git clone https://github.com/FardinIqbal/workout-logger.git
-    cd workout-logger
-    ~~~
 
 2. **Set up environment variables:**
 
